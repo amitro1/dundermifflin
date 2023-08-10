@@ -1,0 +1,237 @@
+{
+  "users": [
+    {
+      "firstName": "amit",
+      "lastName": "rolider",
+      "password": "12345678",
+      "email": "amitrolider1@gmail.com",
+      "userType": "admin",
+      "id": 1
+    },
+    {
+      "firstName": "daniel",
+      "lastName": "rolider",
+      "password": "12345678",
+      "email": "amit@gmail.com",
+      "phone": "0541234567",
+      "country": "israel",
+      "userType": "business",
+      "id": 2
+    },
+    {
+      "firstName": "irit",
+      "lastName": "rolider",
+      "email": "iritrotem1@gmail.com",
+      "password": "12345678",
+      "phone": "0541234567",
+      "country": "israel",
+      "userType": "business",
+      "id": 4
+    },
+    {
+      "firstName": "shiri",
+      "lastName": "rolider",
+      "email": "amitrolider1@gmail.com",
+      "password": "123456789",
+      "phone": "0541234567",
+      "country": "israel",
+      "userType": "business",
+      "id": 3
+    },
+    {
+      "firstName": "yoav",
+      "lastName": "gilvarg",
+      "email": "asaasfa@aadsfzd",
+      "password": "12345678",
+      "phone": "0541234567",
+      "state": "thdfh",
+      "country": "dfhfhdhf",
+      "city": "dfhdfhdfh",
+      "userType": "business",
+      "id": 5
+    },
+    {
+      "firstName": "eryr",
+      "lastName": "fsjfj",
+      "email": "ygkjgk@xfh",
+      "password": "xfhfjcfjgcj",
+      "phone": "cgjcgjffgjfgjf",
+      "state": "gjfjfj",
+      "country": "fjfgjfgjf",
+      "city": "jfjfjfgj",
+      "userType": "business",
+      "id": 6
+    },
+    {
+      "firstName": "asfasg",
+      "lastName": "adgadgda",
+      "email": "hdhfdhg@zdgm",
+      "password": "dfhwdfjcgj",
+      "phone": "xfhxfhdghdgh",
+      "state": "dfhdfh",
+      "country": "dfhdfhd",
+      "city": "fhdh",
+      "userType": "business",
+      "id": 7
+    },
+    {
+      "firstName": "Amit5",
+      "lastName": "Rolider6",
+      "email": "awar@st",
+      "password": "124147457",
+      "phone": "",
+      "state": "",
+      "country": "",
+      "city": "",
+      "userType": "user",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "userEmail": "amitrolider1@gmail.com",
+      "price": 50,
+      "title": "Premium Copy Paper",
+      "id": 1,
+      "description": "Dunder Mifflin Paper Co. Premium Copy Paper",
+      "image": "img/reg100front.webp",
+      "alt": "Dunder Mifflin Paper Co.",
+      "longDescription": "Dunder Mifflin Paper Co.'s Premium Copy Paper is the epitome of quality and excellence in the world of stationery. Specially crafted for discerning professionals and businesses, this premium-grade copy paper offers unmatched performance and versatility. With a bright white finish, it ensures sharp and vibrant prints, making documents stand out with a professional appeal.\n\nEngineered with cutting-edge technology, the Premium Copy Paper boasts exceptional thickness and opacity, reducing show-through and enhancing double-sided printing. Its smooth surface guarantees trouble-free runs through copiers, laser printers, and inkjet printers, saving time and minimizing paper jams.\n\nBeyond its exceptional printing capabilities, the paper is sustainably sourced and responsibly manufactured, aligning with Dunder Mifflin's commitment to environmental stewardship. Each ream of Premium Copy Paper delivers reliability, durability, and consistently impressive results, making it the go-to choice for daily office tasks, presentations, proposals, and more. Elevate your printing experience with Dunder Mifflin's Premium Copy Paper, the ideal choice for professional-grade documents."
+    },
+    {
+      "userEmail": "amit@gmail.com",
+      "price": 40,
+      "title": "Recycled Copy Paper",
+      "id": 2,
+      "description": "Help save the planet with 100% recycled copy paper",
+      "longDescription": "Dunder Mifflin Paper takes environmental responsibility seriously, and their Recycled Copy Paper is a testament to their commitment to sustainability. Made from 100% post-consumer waste, this eco-friendly copy paper is an excellent choice for environmentally-conscious individuals and businesses.\n\nBy choosing Dunder Mifflin's Recycled Copy Paper, you actively participate in reducing deforestation and minimizing your ecological footprint. The paper's high-quality manufacturing process ensures that it meets or exceeds the performance standards of non-recycled alternatives. \n\nWith a smooth texture and bright white appearance, this Recycled Copy Paper ensures clear and professional printing results for all your documents. It's compatible with copiers, laser printers, and inkjet printers, providing a seamless printing experience without compromising on quality.\n\nUsing 100% recycled content, each ream of copy paper contributes to conserving natural resources and preserving our planet for future generations. Join the movement to protect the environment while maintaining top-notch printing standards with Dunder Mifflin's Recycled Copy Paper – a sustainable choice that makes a positive impact every time you print.",
+      "image": "img/recycledpaper100ctF.webp",
+      "alt": "Dunder Mifflin Paper Co."
+    },
+    {
+      "userEmail": "amitrolider1@gmail.com",
+      "price": 40,
+      "title": "Michael Scott Paper Co. Copy Paper",
+      "id": 3,
+      "description": "Michael Scott Paper Co. Copy Paper",
+      "longDescription": "Ladies and gentlemen, welcome to the most extraordinary company in the world - the one and only Michael Scott Paper Company! When I decided to embark on this incredible journey, I knew it was going to be epic. And let me tell you, it's been nothing short of legendary!\n\nWe're not just a paper company; we're a family, a bunch of passionate individuals working together to make magic happen. Our office is a hub of creativity, humor, and camaraderie. We laugh, we bond, and we create memories that will last a lifetime.\n\nBut let's talk about our paper - it's the finest, the cream of the crop. Michael Scott Paper Company offers the most amazing copy paper you've ever seen, with bright white sheets that will dazzle your eyes. Our paper is like a canvas, ready to bring your ideas to life!\n\nSo, join the Michael Scott Paper Company revolution - a place where dreams come true, where friendships are forged, and where paper is not just paper; it's a symbol of joy, love, and infinite possibilities!",
+      "image": "img/mspc100front.webp",
+      "alt": "Dunder Mifflin Paper Co."
+    },
+    {
+      "userEmail": "amit@gmail.com",
+      "price": 150,
+      "title": "3-Hole Punch Copy Paper",
+      "id": 4,
+      "description": "Top quality 3-hole punch copy paper",
+      "longDescription": "Dunder Mifflin Paper's 3-Hole Punch Copy Paper delivers top-notch quality and convenience in one package. This premium copy paper is designed to fit seamlessly into any 3-ring binder, making it ideal for organizing and storing documents. With a smooth finish and excellent thickness, it ensures crisp prints and reduces the risk of tearing while handling. Whether it's for reports, presentations, or class notes, this 3-hole punch copy paper is the perfect choice for a polished and organized look. Trust in Dunder Mifflin's reputation for excellence and elevate your document management with their reliable and versatile 3-hole punch copy paper.",
+      "image": "img/3hpfront.webp",
+      "alt": "Dunder Mifflin Paper Co."
+    }
+  ],
+  "myFavCard": [
+    {
+      "userId": 1,
+      "products": [],
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "products": [
+        {
+          "userEmail": "amit@gmail.com",
+          "price": 40,
+          "title": "Recycled Copy Paper",
+          "id": 2,
+          "description": "Help save the planet with 100% recycled copy paper",
+          "longDescription": "Dunder Mifflin Paper takes environmental responsibility seriously, and their Recycled Copy Paper is a testament to their commitment to sustainability. Made from 100% post-consumer waste, this eco-friendly copy paper is an excellent choice for environmentally-conscious individuals and businesses.\n\nBy choosing Dunder Mifflin's Recycled Copy Paper, you actively participate in reducing deforestation and minimizing your ecological footprint. The paper's high-quality manufacturing process ensures that it meets or exceeds the performance standards of non-recycled alternatives. \n\nWith a smooth texture and bright white appearance, this Recycled Copy Paper ensures clear and professional printing results for all your documents. It's compatible with copiers, laser printers, and inkjet printers, providing a seamless printing experience without compromising on quality.\n\nUsing 100% recycled content, each ream of copy paper contributes to conserving natural resources and preserving our planet for future generations. Join the movement to protect the environment while maintaining top-notch printing standards with Dunder Mifflin's Recycled Copy Paper – a sustainable choice that makes a positive impact every time you print.",
+          "image": "img/recycledpaper100ctF.webp",
+          "alt": "Dunder Mifflin Paper Co."
+        },
+        {
+          "userEmail": "amitrolider1@gmail.com",
+          "price": 50,
+          "title": "Premium Copy Paper",
+          "id": 1,
+          "description": "Dunder Mifflin Paper Co. Premium Copy Paper",
+          "image": "img/reg100front.webp",
+          "alt": "Dunder Mifflin Paper Co.",
+          "longDescription": "Dunder Mifflin Paper Co.'s Premium Copy Paper is the epitome of quality and excellence in the world of stationery. Specially crafted for discerning professionals and businesses, this premium-grade copy paper offers unmatched performance and versatility. With a bright white finish, it ensures sharp and vibrant prints, making documents stand out with a professional appeal.\n\nEngineered with cutting-edge technology, the Premium Copy Paper boasts exceptional thickness and opacity, reducing show-through and enhancing double-sided printing. Its smooth surface guarantees trouble-free runs through copiers, laser printers, and inkjet printers, saving time and minimizing paper jams.\n\nBeyond its exceptional printing capabilities, the paper is sustainably sourced and responsibly manufactured, aligning with Dunder Mifflin's commitment to environmental stewardship. Each ream of Premium Copy Paper delivers reliability, durability, and consistently impressive results, making it the go-to choice for daily office tasks, presentations, proposals, and more. Elevate your printing experience with Dunder Mifflin's Premium Copy Paper, the ideal choice for professional-grade documents."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "products": [],
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "products": [
+        {
+          "userEmail": "amit@gmail.com",
+          "price": 150,
+          "title": "3-Hole Punch Copy Paper",
+          "id": 4,
+          "description": "Top quality 3-hole punch copy paper",
+          "longDescription": "Dunder Mifflin Paper's 3-Hole Punch Copy Paper delivers top-notch quality and convenience in one package. This premium copy paper is designed to fit seamlessly into any 3-ring binder, making it ideal for organizing and storing documents. With a smooth finish and excellent thickness, it ensures crisp prints and reduces the risk of tearing while handling. Whether it's for reports, presentations, or class notes, this 3-hole punch copy paper is the perfect choice for a polished and organized look. Trust in Dunder Mifflin's reputation for excellence and elevate your document management with their reliable and versatile 3-hole punch copy paper.",
+          "image": "img/3hpfront.webp",
+          "alt": "Dunder Mifflin Paper Co."
+        },
+        {
+          "userEmail": "amit@gmail.com",
+          "price": 40,
+          "title": "Recycled Copy Paper",
+          "id": 2,
+          "description": "Help save the planet with 100% recycled copy paper",
+          "longDescription": "Dunder Mifflin Paper takes environmental responsibility seriously, and their Recycled Copy Paper is a testament to their commitment to sustainability. Made from 100% post-consumer waste, this eco-friendly copy paper is an excellent choice for environmentally-conscious individuals and businesses.\n\nBy choosing Dunder Mifflin's Recycled Copy Paper, you actively participate in reducing deforestation and minimizing your ecological footprint. The paper's high-quality manufacturing process ensures that it meets or exceeds the performance standards of non-recycled alternatives. \n\nWith a smooth texture and bright white appearance, this Recycled Copy Paper ensures clear and professional printing results for all your documents. It's compatible with copiers, laser printers, and inkjet printers, providing a seamless printing experience without compromising on quality.\n\nUsing 100% recycled content, each ream of copy paper contributes to conserving natural resources and preserving our planet for future generations. Join the movement to protect the environment while maintaining top-notch printing standards with Dunder Mifflin's Recycled Copy Paper – a sustainable choice that makes a positive impact every time you print.",
+          "image": "img/recycledpaper100ctF.webp",
+          "alt": "Dunder Mifflin Paper Co."
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "products": [],
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "products": [],
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "products": [
+        {
+          "userEmail": "amit@gmail.com",
+          "price": 40,
+          "title": "Recycled Copy Paper",
+          "id": 2,
+          "description": "Help save the planet with 100% recycled copy paper",
+          "longDescription": "Dunder Mifflin Paper takes environmental responsibility seriously, and their Recycled Copy Paper is a testament to their commitment to sustainability. Made from 100% post-consumer waste, this eco-friendly copy paper is an excellent choice for environmentally-conscious individuals and businesses.\n\nBy choosing Dunder Mifflin's Recycled Copy Paper, you actively participate in reducing deforestation and minimizing your ecological footprint. The paper's high-quality manufacturing process ensures that it meets or exceeds the performance standards of non-recycled alternatives. \n\nWith a smooth texture and bright white appearance, this Recycled Copy Paper ensures clear and professional printing results for all your documents. It's compatible with copiers, laser printers, and inkjet printers, providing a seamless printing experience without compromising on quality.\n\nUsing 100% recycled content, each ream of copy paper contributes to conserving natural resources and preserving our planet for future generations. Join the movement to protect the environment while maintaining top-notch printing standards with Dunder Mifflin's Recycled Copy Paper – a sustainable choice that makes a positive impact every time you print.",
+          "image": "img/recycledpaper100ctF.webp",
+          "alt": "Dunder Mifflin Paper Co."
+        },
+        {
+          "userEmail": "amitrolider1@gmail.com",
+          "price": 40,
+          "title": "Michael Scott Paper Co. Copy Paper",
+          "id": 3,
+          "description": "Michael Scott Paper Co. Copy Paper",
+          "longDescription": "Ladies and gentlemen, welcome to the most extraordinary company in the world - the one and only Michael Scott Paper Company! When I decided to embark on this incredible journey, I knew it was going to be epic. And let me tell you, it's been nothing short of legendary!\n\nWe're not just a paper company; we're a family, a bunch of passionate individuals working together to make magic happen. Our office is a hub of creativity, humor, and camaraderie. We laugh, we bond, and we create memories that will last a lifetime.\n\nBut let's talk about our paper - it's the finest, the cream of the crop. Michael Scott Paper Company offers the most amazing copy paper you've ever seen, with bright white sheets that will dazzle your eyes. Our paper is like a canvas, ready to bring your ideas to life!\n\nSo, join the Michael Scott Paper Company revolution - a place where dreams come true, where friendships are forged, and where paper is not just paper; it's a symbol of joy, love, and infinite possibilities!",
+          "image": "img/mspc100front.webp",
+          "alt": "Dunder Mifflin Paper Co."
+        }
+      ],
+      "id": 7
+    },
+    {
+      "userId": 8,
+      "products": [],
+      "id": 8
+    }
+  ]
+}
